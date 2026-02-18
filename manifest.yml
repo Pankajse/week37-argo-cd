@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: week37
-      image: pankaj42se/week37-argocd:1
+      image: pankaj42se/week37-argocd:1590ab42a9b246b42531e0e5c605ecc6fce2662a
       ports:
       - containerPort: 3000

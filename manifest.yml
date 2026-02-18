@@ -9,4 +9,4 @@ spec:
     - name: week37
       image: pankaj42se/week37-argocd:1
       ports:
-      - containerPort:3000
+      - containerPort: 3000
